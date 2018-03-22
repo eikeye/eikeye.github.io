@@ -10,5 +10,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: pza
-    url: /pza
+  - title: PZA
+    url: pza
