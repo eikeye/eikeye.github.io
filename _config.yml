@@ -10,5 +10,3 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: PZA
-    url: pza
