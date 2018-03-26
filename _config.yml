@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Emily Eikey's Webpage
+description: Visualization Class Demo
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: Setup
-    url: setup
+  - title: PZA Uptake Plot
+    url: /pza.html
