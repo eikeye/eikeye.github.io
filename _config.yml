@@ -10,5 +10,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: PZA Uptake Plot
+  - title: Setup
     url: pza
