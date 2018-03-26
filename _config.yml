@@ -1,3 +1,6 @@
+---
+layout: full
+---
 theme: jekyll-theme-minimal
 title: Emily Eikey's Website
 description: PZA Uptake in MOFs
@@ -7,3 +10,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
+  - title: PZA Uptake Plot
+    url: pza
