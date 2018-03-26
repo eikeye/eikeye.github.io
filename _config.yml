@@ -10,5 +10,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: Setup
+  - title: PZA Uptake in MOFs Plot
     url: pza
