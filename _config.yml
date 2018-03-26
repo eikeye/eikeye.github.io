@@ -5,3 +5,5 @@ show_downloads: True
 navigation:
   - title: PZA Uptake Plot
     url: /pza.html
+  - title: Isoniazid Uptake Plot
+    url: /isoniazid.html
