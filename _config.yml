@@ -1,9 +1,6 @@
----
-layout: full
----
 theme: jekyll-theme-minimal
-title: Emily Eikey's Webpage
-description: PAZ Uptake in MOFs
+title: GitHub pages template
+description: A simple template based on minimal jekyll theme
 show_downloads: True
 navigation:
   - title: Home
